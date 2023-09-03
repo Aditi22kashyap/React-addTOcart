@@ -1,4 +1,4 @@
-React Shopping Cart
+#### React Shopping Cart
 The React Shopping Cart is a web application that allows users to browse and manage items in a shopping cart. Users can add and remove items, adjust item quantities, and see the updated cart total in real-time.
 
 ![image](https://github.com/Aditi22kashyap/React-addTOcart/assets/108919601/46657723-57b3-44e3-b6ab-c6696edfe521)
